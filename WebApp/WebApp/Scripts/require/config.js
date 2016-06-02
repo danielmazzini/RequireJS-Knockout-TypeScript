@@ -1,4 +1,4 @@
-﻿/// <reference path="../typings/requirejs/require.d.ts" />
+/// <reference path="../typings/requirejs/require.d.ts" />
 require.config({
     baseUrl: "/Scripts/",
     paths: {
@@ -10,4 +10,3 @@ require.config({
         "bootstrap": ["jquery"]
     }
 });
-//# sourceMappingURL=config.js.map

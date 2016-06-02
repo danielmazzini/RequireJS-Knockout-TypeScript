@@ -49,5 +49,3 @@ export class ClickToEditViewModel {
     }
 }
 
-// return the 'class' which is the constructor function
-return ClickToEditViewModel;
